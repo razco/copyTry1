@@ -2,11 +2,9 @@ package guiLayer;
 
 public class AgabumbuTry {
 
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		System.out.println("Hello!!");
+	public int return1()
+	{
+		return 1;
 	}
 
 }
